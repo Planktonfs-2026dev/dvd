@@ -1,0 +1,8 @@
+# Simulation and build outputs
+sim
+sim_err
+gls
+gls_nodelay
+*.vcd
+*.vvp
+runs/
