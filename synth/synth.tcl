@@ -21,3 +21,5 @@ yosys tee -o synth/mult_array_stat.rpt stat -liberty $lib
 
 # 7. Write the gate-level netlist
 yosys write_verilog -noattr synth/mult_array_netlist.v
+# 7. Write the gate-level netlist
+yosys write_verilog -noattr synth/mult_array_netlist.v
