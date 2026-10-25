@@ -6,3 +6,4 @@ gls_nodelay
 *.vcd
 *.vvp
 runs/
+pnr/runs/
