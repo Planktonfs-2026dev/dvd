@@ -5,3 +5,4 @@ TEST
 - SKY130 attempt at 4.5 ns: setup violations at ss_100C_1v60 corners; period increased
 - Final passing run: CLOCK_PERIOD = 7.0 ns on SKY130 (ss corners). Failed attempts logged as pnr/run_*ns.log.
 - Final passing run: CLOCK_PERIOD = 7.0 ns, SKY130 ss corners, LVS and DRC clean. Failed attempts are in pnr/run_*ns.log.
+- Final run: CLOCK_PERIOD = 7.0 ns, SKY130. Setup, DRC and LVS pass. Failed attempts are in pnr/run_*ns.log.

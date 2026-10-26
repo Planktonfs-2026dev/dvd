@@ -1,0 +1,16 @@
+nohup: ignoring input
+=== CLOCK_PERIOD = 5.0 ns  (12:23) ===
+  flow stopped (exit 2): Setup violations found in the following                     
+  setup violation or other flow error; see run_5.0ns.log
+=== CLOCK_PERIOD = 5.5 ns  (12:24) ===
+  flow stopped (exit 2): Setup violations found in the following                     
+  setup violation or other flow error; see run_5.5ns.log
+=== CLOCK_PERIOD = 6.0 ns  (12:26) ===
+  flow stopped (exit 2): Setup violations found in the following                     
+  setup violation or other flow error; see run_6.0ns.log
+=== CLOCK_PERIOD = 6.5 ns  (12:27) ===
+  flow stopped (exit 2): Setup violations found in the following                     
+  setup violation or other flow error; see run_6.5ns.log
+=== CLOCK_PERIOD = 7.0 ns  (12:29) ===
+  Antenna: Passed   LVS: Passed   DRC: Passed
+PASSED: setup, DRC and LVS all clean at 7.0 ns
