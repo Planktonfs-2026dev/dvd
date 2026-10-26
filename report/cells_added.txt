@@ -1,0 +1,10 @@
+  20738 sky130_fd_sc_hd__decap
+  11462 sky130_fd_sc_hd__tapvpwrvgnd
+   9856 sky130_fd_sc_hd__clkbuf
+   4757 sky130_fd_sc_hd__buf
+   3808 sky130_fd_sc_hd__fill
+    175 sky130_fd_sc_hd__tap
+     60 sky130_fd_sc_hd__bufbuf
+     58 sky130_fd_sc_hd__bufinv
+     26 sky130_fd_sc_hd__tapvgnd2
+     26 sky130_fd_sc_hd__tapvgnd
